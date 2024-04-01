@@ -1,5 +1,0 @@
-"Within this file, you will find a wide range of meticulously organized folders, each intended to contain specific information about patients. These folders include detailed data on normotensive, pre-hypertensive, and hypertensive patients, allowing you to quickly access the relevant information you need.
-
-With the aim of providing an optimal experience to all our users, we have designed this folder structure with both English and Spanish speakers in mind. Thus, regardless of your preferred language, you can easily find what you are looking for.
-
-Our commitment to accessibility and convenience is reflected in every aspect of this file system, ensuring that your browsing experience is smooth and efficient. Explore these folders with confidence and discover the wealth of information available to you!"
