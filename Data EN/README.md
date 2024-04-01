@@ -73,13 +73,23 @@ Hypertension is characterized by chronically high blood pressure levels, exceedi
 |    TOTAL    |  52,48 | 
 
 # Description
+
 Record #: name of the record associated with each individual, 'PPG_subj_##" (where ## is the subject number).
+
 Age: range between 44 - 65 years old.
+
 Gender: Male or Female.
+
 Diagnosed: 'y' for diagnosed, and 'n' for undiagnosed.
+
 Treatment: 'y', is under treatment, on the other hand, 'n', isn’t under treatment.
+
 Systolic BP: pressure over the arteries when the heart beats (measured in mm Hg)
+
 Diastolic BP: pressure between beats when the heart is filling with blood (measured in mm Hg)
+
 Heart Rate: number of heart contractions for a given time (measured in BPM).
+
 JNC: Classification by JNC 7 guideline (N = normotensive, E = prehypertensive and H = hypertensive)
+
 AHA: Classification by AHA 2017 guideline (N = normotensive, E = prehypertensive/elevated and H = hypertensive)
