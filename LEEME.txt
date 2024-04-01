@@ -1,0 +1,5 @@
+Dentro de este archivo, encontrarás una amplia gama de carpetas meticulosamente organizadas, cada una destinada a contener información específica sobre los pacientes. Estas carpetas incluyen datos detallados sobre pacientes normotensos, pre-hipertensos e hipertensos, lo que te permitirá acceder rápidamente a la información relevante que necesites.
+
+Con el objetivo de brindar una experiencia óptima a todos nuestros usuarios, hemos diseñado esta estructura de carpetas teniendo en cuenta tanto a aquellos que hablan inglés como a los que hablan español. Así, independientemente del idioma que prefieras, podrás encontrar fácilmente lo que buscas.
+
+Nuestro compromiso con la accesibilidad y la comodidad se refleja en cada aspecto de este sistema de archivos, asegurando que tu experiencia de navegación sea fluida y eficiente. ¡Explora estas carpetas con confianza y descubre la riqueza de información disponible para ti!
