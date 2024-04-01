@@ -1,6 +1,6 @@
-                                                  PPG LAB 
+                                                 # PPG LAB 
 
-ESPAÑOL
+## ESPAÑOL
 
 La tecnología de fotopletismografía (PPG) es una técnica no invasiva utilizada para medir las variaciones volumétricas de flujo sanguíneo en el sistema circulatorio. Esta técnica es ampliamente reconocida por su aplicación en dispositivos portátiles y médicos para monitorear la frecuencia cardíaca, pero también puede proporcionar información valiosa sobre la presión sanguínea.
 
@@ -16,7 +16,7 @@ Investigaciones recientes han explorado métodos para estimar la presión sangu�
 
 Es importante mencionar que, aunque la tecnología PPG ofrece una forma conveniente y no invasiva de monitorear la presión sanguínea, todavía enfrenta desafíos en términos de precisión y fiabilidad comparados con los métodos tradicionales de medición, como el esfigmomanómetro. Sin embargo, su integración en dispositivos portátiles ofrece un potencial significativo para el monitoreo continuo de la salud cardiovascular en la vida cotidiana.
 
-ENGLISH
+## ENGLISH
 
 Photoplethysmography (PPG) technology is a non-invasive technique used to measure volumetric variations of blood flow in the circulatory system. This technique is widely recognized for its application in portable and medical devices to monitor heart rate, but it can also provide valuable information about blood pressure.
 
