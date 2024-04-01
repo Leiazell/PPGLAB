@@ -13,7 +13,7 @@ La hipertensión se caracteriza por niveles crónicamente elevados de presión a
 
 # DATOS DE PACIENTES
 
-| Sujetos     | Edad|	Genero | diagnosticado	| Tratamient|	SistólicoBP|	DiastólicoBP |	Frec. Card |	JNC	| AHA |
+| Sujetos     | Edad|	Genero | diagnosticado	| Tratamient|	SistólicoPA|	DiastólicoPA |	Frec. Card |	JNC	| AHA |
 |-------------|-----|--------|----------------|-----------|------------|---------------|-------------|------|-----|
 | PPG_subj_01 |	44  |   M    |	   y          |     n	    |     124    |	    83       | 	    76     |	E   |	 H  |
 | PPG_subj_02	| 58	|   M    |	   y          |	    y     |   	115    |    	75       |	    84     |	N   |	 N  |
@@ -72,3 +72,25 @@ La hipertensión se caracteriza por niveles crónicamente elevados de presión a
 | PPG_subj_55	| 45	|   M	   |     y	        |     y	    |     128	   |      83	     |      71	   |  E  	|  H  |
 | PPG_subj_56	| 46	|   F	   |     y	        |     y	    |     128	   |      89	     |      78	   |  E	  |  H  |
 |    TOTAL    |  52,48 | 
+
+# DESCRIPCIÓN
+
+Sujeto: nombre del registro asociado a cada individuo, 'PPG_subj_##" (donde ## es el número de asunto).
+
+Edad: rango entre 44 - 65 años.
+
+Género: Masculino o Femenino.
+
+Diagnosticado: 'y' para diagnosticado, y 'n' para no diagnosticado.
+
+Tratamiento: 'y', está bajo tratamiento, por otro lado, 'n', no está bajo tratamiento.
+
+sistólica PA: presión sobre las arterias cuando el corazón late (medida en mm Hg)
+
+diastólica PA: presión entre latidos cuando el corazón se llena de sangre (medida en mm Hg)
+
+Frecuencia cardíaca: número de contracciones cardíacas durante un tiempo determinado (medida en LPM).
+
+JNC: Clasificación por JNC 7 (N = normotenso, E = prehipertenso y H = hipertenso)
+
+AHA: Clasificación según guía AHA 2017 (N = normotenso, E = prehipertenso/elevado y H = hipertenso)
