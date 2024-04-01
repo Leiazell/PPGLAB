@@ -13,7 +13,7 @@ La hipertensión se caracteriza por niveles crónicamente elevados de presión a
 
 # DATOS DE PACIENTES
 
-| Sujetos     | Edad|	Genero | diagnosticado	| Tratamient|	SistolicoBP|	DiastolicoBP |	Frec. Card |	JNC	| AHA |
+| Sujetos     | Edad|	Genero | diagnosticado	| Tratamient|	SistólicoBP|	DiastólicoBP |	Frec. Card |	JNC	| AHA |
 |-------------|-----|--------|----------------|-----------|------------|---------------|-------------|------|-----|
 | PPG_subj_01 |	44  |   M    |	   y          |     n	    |     124    |	    83       | 	    76     |	E   |	 H  |
 | PPG_subj_02	| 58	|   M    |	   y          |	    y     |   	115    |    	75       |	    84     |	N   |	 N  |
