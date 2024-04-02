@@ -1,1 +1,1 @@
-## Below we will have a list of subjects to whom the JNC diagnoses as normotensives and you can download their ppg record.
+## Next we will have two folders, one with files . mat and one with files . csv of subjects that the JNC diagnoses as hypertensive and you can download their ppg record.
