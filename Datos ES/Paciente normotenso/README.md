@@ -1,1 +1,1 @@
-## A continuación tendremos una lista de sujetos a los cuales la JNC diagnostico como normotensos y podrás descargar su registro ppg.
+## A continuación tendremos dos carpetas, una con archivos .mat y otra con archivos .csv de sujetos a los que el JNC diagnostica como hipertensos y podrás descargar su registro ppg.
